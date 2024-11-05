@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently pursuing my Bachelor's in Technology.<br>I'm ready to collaborate on projects that demand innovation and reliability.<br>I'm currently learning the UX/UI designing and frontend frameworks.<br>I'm very lazy and I'm good for nothing.
+I’m currently pursuing a Bachelor’s in Technology, driven by a commitment to collaborate on projects that blend innovation with dependability.<br> My learning journey includes mastering UX/UI design principles and exploring advanced frontend frameworks to build visually appealing and user-centric solutions.<br> While I like to work at my own pace, I’m genuinely dedicated to continuous improvement, ensuring that I bring value and creativity to every project.
 
 
 ## 🌐 Socials:
